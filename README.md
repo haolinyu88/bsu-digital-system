@@ -35,4 +35,5 @@ POS is mean combination of input can ouput to 0 with complement pattern, which i
 
 
 ### Open the test.v file – how are we able to check that the signals match using XOR?
+If the output is match with XOR gate, our code will be fail, because XOR will produce opposite result with SOP and POS.
 
