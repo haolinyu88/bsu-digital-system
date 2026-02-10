@@ -4,6 +4,10 @@ In this lab, you’ve learned how to apply KMaps, Sum Of Products and Products o
 sums to simplify digital logic equations. Then, you’ve proven out that they work
 using an implemented design on your Basys3 boards.
 
+Group 12
+Haolin Yu
+Christian Jensen
+
 ## Rubric
 
 | Item | Description | Value |
@@ -16,6 +20,7 @@ using an implemented design on your Basys3 boards.
 ## Lab Summary
 
 Summarize your learnings from the lab here.
+We learned how to implement a basic circuit using KMaps, and SOP/POS implementation.
 
 ## Lab Questions
 
