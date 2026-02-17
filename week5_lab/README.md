@@ -17,7 +17,7 @@ the constraints file maps your inputs and outputs to real pins on the FPGA.
 haolin yu
 
 ## Lab Summary
-
+Develop two circuit(A and B) where the one of the inputs of si the output of a. Implement theses circuit as separate blocks within Vivado, and use the top.v file to combine them into a single circuit.
 
 ## Lab Questions
 
