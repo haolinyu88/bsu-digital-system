@@ -1,8 +1,8 @@
 # Number Theory: Addition
-
-In this lab you've learned the basics of number theory as it relates to addition.
 team 12: haolin yu
           christan jenson
+In this lab you've learned the basics of number theory as it relates to addition.
+
 ## Rubric
 
 | Item | Description | Value |
