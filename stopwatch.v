@@ -17,10 +17,9 @@ module stopwatch(
     assign is59 = (Q == 6'd59);
 
     // Structural Mux Logic for next state
-    // Priority: If not enabled, hold Q. If 59, go to 0. Else plus1.
+    // If not enabled, hold Q. If 59, go to 0. Else plus1.
     assign next_val = (!en) ? Q : (is59 ? 6'b000000 : plus1);
-
-    // 6-bit D-Flip-Flop Register Bank
+    // 6bit ff to store value
     d_ff dff[5:0] (
         .clk(clk),
         .reset(rst),
